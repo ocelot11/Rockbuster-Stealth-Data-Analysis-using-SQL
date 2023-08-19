@@ -6,4 +6,4 @@ The purpose of this analysis is to help Rockbuster Stealth’s business intellig
 
 _Data Source_ 
 
-All the data sets were provided by Rocjbuster Stealth
+All the data sets were provided by Rockbuster Stealth
